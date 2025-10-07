@@ -1,1 +1,1 @@
-# manan-clorie-tracker
+# manan-calorie-tracker
